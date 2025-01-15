@@ -1,0 +1,10 @@
+{
+  "new_user": {
+    "name": "Nick",
+    "username": "another qa user",
+    "email": "someemail@gmail.com"
+  },
+  "update_user": {
+    "name": "Jonas"
+  }
+}
